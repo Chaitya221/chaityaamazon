@@ -173,3 +173,17 @@ span{
     color: #c7511f;
     text-decoration:underline;
 }
+
+/*shopsection*/
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+
+.box{
+    height: 400px;
+    width: 23%;
+    border: 2px solid black;
+    background-color: white;
+}
